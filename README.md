@@ -1,2 +1,2 @@
 # Chat-App
-Chat Application
+A real time Chat Application using socket.io .
